@@ -4,9 +4,8 @@ Este programa en C++ está diseñado para leer un archivo de entrada en formato 
 
 ## Uso
 
-1. Copiar un código JSON dentro del archivo *`entrada.json`*.
-2. Ejecutar el archivo main.cpp.
-3. En caso de que el archivo de entrada no se pueda abrir, cambiar la ruta en la linea [9] del archivo main.cpp. Ej:"C:\\Users\\usuario\\Desktop\\JSON_validator\\entrada.json"
+1. Copiar un código JSON dentro del archivo `entrada.json`.
+2. Ejecutar el archivo `main.cpp`.
 
 ## Resultados
 
@@ -26,5 +25,8 @@ Si el archivo de entrada es válido, el programa creará un archivo de salida ll
 - Este programa solo permite string dentro de una lista [].
 - Se recomienda tener cuidado al proporcionar nombres de archivos de entrada para evitar errores de lectura.
 - Si el programa finaliza con éxito, los archivos de `salida.json` y `buffers.txt` estarán disponibles en el directorio de ejecución del programa.
+- Se recomienda utilizar entornos como Replit para ejecutar el programa, esto evitará posbiles errores al buscar la ruta del archivo de entrada.
+
+___
 
 ¡Gracias por usar nuestro Validador de Archivos JSON en C++!
