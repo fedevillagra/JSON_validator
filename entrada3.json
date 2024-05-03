@@ -1,0 +1,38 @@
+{
+    "informacion": {
+      "cliente": {
+        "nombre": "Juan",
+        "edad": "treinta",
+        "direccion": {
+          "calle": "Calle Mayor",
+          "numero": "false",
+          "ciudad": "Madrid"
+        }
+      },
+      "productos": {
+        "producto1":
+        {
+          "nombre": "Producto A",
+          "precio": "20"
+        },
+        "producto2":
+        {
+          "nombre": "Producto B",
+          "precio": "30"
+        }
+      }
+    },
+    "pedido": {
+      "id": "ABC123",
+      "fecha": "2024-04-24",
+      "total": "50"
+    },
+    "envio": {
+      "destino": {
+        "ciudad": "Barcelona",
+        "codigo_postal": "08001"
+      },
+      "metodo": "Express",
+      "costo_envio": "10"
+    }
+  }

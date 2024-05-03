@@ -1,0 +1,10 @@
+{
+"nombre":"Carlos",
+"apellido":"Garciarena",
+"domicilio":{
+"calle":"San martin",
+"altura":"33",
+"cuidad":"Jujuy",
+"telefonos":["351-4555666","351-5012789"]},
+"conyuge":"Ana Castro","hijos":["Ana Garciarena","Lucas Garciarena"]
+}

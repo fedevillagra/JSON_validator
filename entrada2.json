@@ -1,0 +1,15 @@
+{
+    "usuarios": { 
+        "usuario1":
+      {
+      "nombre": "Ana",
+      "edad": "28"
+      },
+        "usuario2":
+      {
+      "nombre":"Pedro",
+      "edad": "35"
+      }
+    }
+}
+  
